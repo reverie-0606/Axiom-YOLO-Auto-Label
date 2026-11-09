@@ -1,0 +1,16 @@
+Axiom YOLO Auto Label
+Copyright 2026 reverie-0606
+
+Axiom source code is distributed under the Apache License, Version 2.0.
+
+This project integrates third-party software and model weights, which retain
+their own licenses and attribution requirements. See the README acknowledgments
+and the respective upstream projects for details.
+
+The detection prompt family and coordinate-token conventions follow Tencent
+WeVisOne-VL, an Apache-2.0-licensed project:
+https://github.com/Tencent/WeVisOne-VL
+
+YOLO training uses Ultralytics. Its code and model terms are separate from
+Axiom's Apache-2.0 license:
+https://github.com/ultralytics/ultralytics
